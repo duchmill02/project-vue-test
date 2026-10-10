@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         
         <h3>Contact Us</h3>
         <h2>Sastapong Rodkongroj</h2>
